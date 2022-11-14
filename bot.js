@@ -69,7 +69,7 @@ const { state, saveState } = await useSingleFileAuthState(
   conn.ev.on("connection.update", async (s) => {
     const { connection, lastDisconnect } = s;
     if (connection === "connecting") {
-      console.log("X-AsenaDuplicated");
+      console.log("Toxic-Alexa");
       console.log("ℹ️ Connecting to WhatsApp... Please Wait.");
     }
 
