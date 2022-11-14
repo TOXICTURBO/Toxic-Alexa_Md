@@ -1,5 +1,5 @@
 FROM fusuf/whatsasena:latest
-RUN git clone https://github.com/V1P3R-X/X-AsenaDuplicated.git /XAsenaDuplicated
-WORKDIR /XAsenaDuplicated
+RUN git clone https://github.com/TOXICTURBO/Toxic-Alexa_Md.git /ToxicAlexaMd
+WORKDIR /ToxicAlexaMd
 RUN npm install
 CMD ["node", "bot.js"] 
