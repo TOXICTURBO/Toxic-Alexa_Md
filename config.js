@@ -27,12 +27,12 @@ module.exports = {
       : "^[,]",
   RMBG_KEY: process.env.RMBG_KEY || false,
   BRANCH: "master",
-  PACKNAME: process.env.PACKNAME || "X-Asena",
+  PACKNAME: process.env.PACKNAME || "Toxic Alexa",
   WELCOME_MSG:
     process.env.WELCOME_MSG ||
     "Hi @user Welcome to @gname",
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
-  AUTHOR: process.env.AUTHOR || "X-Electra",
+  AUTHOR: process.env.AUTHOR || "Turbo Mods",
   DATABASE_URL: DATABASE_URL,
   DATABASE:
     DATABASE_URL === "./lib/database.db"
@@ -51,10 +51,10 @@ module.exports = {
           },
           logging: false,
         }),
-  SUDO: process.env.SUDO || "919207759062,918113921898,918590508376,919778383987",
+  SUDO: process.env.SUDO || "916380260672",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || " ",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || " ",
-  OWNER_NAME: process.env.OWNER_NAME || "X-Electra",
-  BOT_NAME: process.env.BOT_NAME || "X-AsenaDuplicated",
+  OWNER_NAME: process.env.OWNER_NAME || "TurboMods",
+  BOT_NAME: process.env.BOT_NAME || "Toxic-Alexa",
   WORK_TYPE: process.env.WORK_TYPE || "public",
 };
