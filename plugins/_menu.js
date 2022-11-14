@@ -84,7 +84,7 @@ const buttons = [
 const buttonMessage = {
     text: tiny(menu),
     footer: tiny(
-          `X-AsenaDuplicated\nVersion : ${require("../package.json").version}`
+          `Toxic-Alexa\nVersion : ${require("../package.json").version}`
         ),
     buttons: buttons,
     headerType: 1
