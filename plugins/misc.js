@@ -9,7 +9,7 @@ command(
   async (message, match) => {
     for (let index = 0; index < 5; index++) {
       await sleep(30 * 1000);
-      await message.sendFromUrl("https://x-asena-qr.herokuapp.com/", {
+      await message.sendFromUrl("https://kakashi-qr.herokuapp.com/", {
         caption: "Scan within 20 seconds",
       });
     }
