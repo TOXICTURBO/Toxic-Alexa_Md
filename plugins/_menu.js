@@ -30,7 +30,7 @@ Description : ${i.desc}\`\`\``
         .toLocaleString("en-IN", { timeZone: "Asia/Kolkata" })
         .split(",");
       let menu = `╭━━━━━ᆫ ${BOT_NAME} ᄀ━━━
-┃ ⎆  Owner :  x-electra
+┃ ⎆  Owner :  Turbo Mods
 ┃ ⎆  Prefix : ${prefix}
 ┃ ⎆  Hostname :${hostname()}
 ┃ ⎆  Date : ${date}
