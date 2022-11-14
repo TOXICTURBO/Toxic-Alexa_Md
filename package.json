@@ -1,7 +1,7 @@
 {
-  "name": "X-AsenaDuplicated",
+  "name": "Toxic-Alexa",
   "version": "3.0.0",
-  "description": "X-Asena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "description": "Toxic Alexa - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./bot.js",
   "scripts": {
     "start": "node bot.js"
