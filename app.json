@@ -1,11 +1,11 @@
 {
-  "name": "X-AsenaDuplicated",
-  "description": "X-asena Multi Device whatsappbot",
+  "name": "Toxic-Alexa",
+  "description": "Toxic Alexa Multi Device whatsappbot",
   "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/V1P3R-X/X-AsenaDuplicated",
-  "website": "https://github.com/V1P3R-X/X-AsenaDuplicated",
-  "success_url": "https://github.com/V1P3R-X/X-AsenaDuplicated",
+  "repository": "https://github.com/TOXICTURBO/Toxic-Alexa_Md",
+  "website": "https://github.com/TOXICTURBO/Toxic-Alexa_Md",
+  "success_url": "https://github.com/TOXICTURBO/Toxic-Alexa_Md",
   "stack": "container",
   "env": {
     "ANTI_LINK": {
